@@ -4,7 +4,7 @@ description: "Score accounts and contacts for GTM workflows: hard exclusions, a 
 license: CC-BY-4.0
 metadata:
   author: Afeez Adebayo
-  author_url: https://afeezadebayo.author_url: https://afeezadebayo.com
+  author_url: https://afeezadebayo.com
   author_linkedin: https://www.linkedin.com/in/afeez-adebayo/
   author_x: https://x.com/za_icon
   source: https://afeezadebayo.com/skills-md/marketing/gtm-engineering/icp-account-scoring/
